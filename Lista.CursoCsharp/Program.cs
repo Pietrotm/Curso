@@ -15,6 +15,7 @@ namespace Lista.CursoCsharp
             Console.Write("Digite o preço do produto: ");
             p.Prreco = double.Parse(Console.ReadLine());
             //
+            //
             Console.Write("Digite a quantidade do produto: ");
             p.Quuantidade = int.Parse(Console.ReadLine());
             //
